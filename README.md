@@ -58,11 +58,3 @@
 3. 변경사항 commit
 4. Pull Request 생성
 5. 코드 리뷰 후 merge
-
-## 지원 언어(C++ 추천)
-
-* C/C++ (`.c`, `.cpp`)
-* Python (`.py`)
-* Java (`.java`)
-* JavaScript (`.js`)
-* etc.
