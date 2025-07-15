@@ -43,13 +43,13 @@
 
 예시:
 
-* `2-3.cpp` (2번째 세트의 3번 문제, C++)
+BOJ의 경우
 
-* `1-5.py` (1번째 세트의 5번 문제, Python)
+* `30523.cpp` (BOJ 30523번 문제, C++)
 
-* `3-1.java` (3번째 세트의 1번 문제, Java)
-    25CPT_Study/Beginner/myName/week-1/2-3.cpp
-    25CPT_Study/Intermediate/myName/week-2/1-4.py
+Codetree의 경우
+
+* `T1-2-3-4.cpp` (Trail 1 / Chapter 2 / Lesson 3의 4번째 문제, C++) 
 
 ## 제출 방법
 
